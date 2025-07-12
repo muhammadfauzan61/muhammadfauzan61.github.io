@@ -1,3 +1,14 @@
+title: Muhammad Fauzan
+email: muhammadfauzan9981@gmail.com
+description: > # this means to ignore newline until "baseurl:"
+    This is my personal blog, Muhammad Fauzan. I come from East Atjeh. I am currently a student at the State Polytechnic of Lhokseumawe, majoring in Information Technology and the study program of Computer Engineering. I am 19 years old now and my hobby is read read some slice of life comics and light comedy.
+
+baseurl: "" # The subpath of your site, e.g /blog
+
+url: "https://muhammadfauzan61.github.io" # the base hostname & protocol
+
+github_username:  muhammadfauzan61
+
 url: "https://muhammadfauzan61.github.io/"
 plugins:
   - jekyll-feed
